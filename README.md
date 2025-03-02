@@ -8,7 +8,7 @@
 - 
 ## การติดตั้ง
 
-1. โคลน repository นี้: https://github.com/aunggritsae/Discord-SpellCastHelper
+1. โคลน repository นี้: git clone https://github.com/aunggritsae/Discord-SpellCastHelper
    
 2. ตรวจสอบให้แน่ใจว่ามี Python 3.6 หรือใหม่กว่า และมี Tkinter (มักรวมมากับ Python อยู่แล้ว)
 
